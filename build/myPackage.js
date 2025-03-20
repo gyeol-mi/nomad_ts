@@ -1,6 +1,6 @@
 export function init(config) {
-    return true;
+  return true;
 }
 export function exit(code) {
-    return code + 1;
+  return code + 1;
 }
